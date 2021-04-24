@@ -1,2 +1,2 @@
 # measurement-tool-for-firefox
-Tool to measure pixels in Firefox 
+Tool for measuring pixels in Firefox 
